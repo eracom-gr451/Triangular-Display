@@ -1,5 +1,7 @@
 # Triangular Display
 
+![](Cover.png)
+
 Une sélection de fontes par Rachel Gasser.
 
 1. [AdventPro](https://fonts.google.com/specimen/Advent+Pro) - par Andreas Kalpakidis, Open Font Licence
